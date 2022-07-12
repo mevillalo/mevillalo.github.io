@@ -4,13 +4,15 @@ Hi! I am a Data Scientist with a Computer Science backgroud helping businesses s
 # Links
 - Checkout my [LinkedIn](https://www.linkedin.com/in/mevillalobos/) to see work experience and career progression, you can also [download my Resume](https://github.com/mevillalo/mevillalo.github.io/raw/main/%5BData%20Scientist%5D%202022%20MaElena%20Villalobos%20Ponte.pdf).
 
-# Random things about me
+# Random details about me
 - I believe in [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python), which you can read by doing
 ```python
 import this
 ```
 I  particularly think that **simple is better than complex**.
 - I'm into the [Agile Manifesto and Principles](https://agilemanifesto.org/principles.html), specifically that **the user should be at the center** of everything you do.
+- I am fluent in **Spanish** and **French**, I'm all about _la francophonie_.
+<!-- I was part of the [Louvain-li-Nux](https://www.louvainlinux.org/) kot-à-projet (university dorms linked to a project) dedicated to the promotion of free software in Louvain-la-Neuve, Belgium from 2009 to 2010. During this time I also learned about Belgian beer culture formally recognised by UNESCO's as an "Intangible Cultural Heritage of Humanity". -->
 
 # (Some) Projects
 - **Sightwalk** explored the automatic generation of enjoyable walking paths from social media. It was the Capstone project for the MS in Data Science at NYU and won the award of _best project of the 2017 class_. It was done in collaboration with Felipe Ducau and Sebastian Brarda. [[pdf]](https://github.com/mevillalo/sightwalk_capstone_nyu/blob/master/SightWalk_Final_Report.pdf) [[demo]](http://www.youtube.com/watch?v=GAvCeND9iRI) [[source]](https://github.com/mevillalo/sightwalk_capstone_nyu)
