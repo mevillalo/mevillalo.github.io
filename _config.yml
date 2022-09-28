@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: Maria Elena Villalobos Ponte
 description: Data Scientist
 google_analytics: G-V09M45V1BZ
+plugins:
+- jekyll-remote-theme
