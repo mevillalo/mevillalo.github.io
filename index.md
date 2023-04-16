@@ -2,7 +2,7 @@
 Hi! I am a Data Scientist with a Computer Science backgroud helping businesses solve real-world problems with data.
 
 # Links
-- Checkout my [LinkedIn](https://www.linkedin.com/in/mevillalobos/) to see work experience and career progression, you can also [download my Resume](https://github.com/mevillalo/mevillalo.github.io/raw/main/%5BData%20Scientist%5D%202022%20MaElena%20Villalobos%20Ponte.pdf).
+- Checkout my [LinkedIn](https://www.linkedin.com/in/mevillalobos/) to see work experience and career progression, you can also [download my Resume](https://github.com/mevillalo/mevillalo.github.io/blob/main/2023%20DS%20Resume.pdf).
 
 # Random details about me
 - I believe in [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python), which you can read by doing
